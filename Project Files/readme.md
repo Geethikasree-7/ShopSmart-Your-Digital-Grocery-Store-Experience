@@ -72,6 +72,6 @@ This project currently does not use a .env file — configuration is hardcoded (
 You should move sensitive info like DB URI into a .env file for production
 
 video demo: https://github.com/Geethikasree-7/ShopSmart-Your-Digital-Grocery-Store-Experience/tree/main/Video%20Demo
-documentation: 
+documentation: https://github.com/Geethikasree-7/ShopSmart-Your-Digital-Grocery-Store-Experience/blob/main/Document/document.pdf
 
 
