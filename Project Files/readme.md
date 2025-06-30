@@ -7,12 +7,19 @@ ShopSmart is a full-featured MERN stack (MongoDB, Express.js, React.js, Node.js)
 ShopSmart/
 │
 ├── code/
+
 │ ├── Backend/ # Node.js + Express backend
+
 │ │ ├── index.js # Server entry point
+
 │ │ ├── package.json # Backend dependencies
+
 │ │ └── db/
+
 │ │ ├── connect.js # MongoDB connection logic
+
 │ │ ├── schema.js # Mongoose schema definitions
+
 │ │ └── products.js # Product data (if seeded manually)
 │ │
 │ └── Frontend/ # React-based frontend
