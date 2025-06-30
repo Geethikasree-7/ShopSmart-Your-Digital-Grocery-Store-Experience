@@ -11,7 +11,7 @@ https://geethikasree-7.github.io/ShopSmart-Your-Digital-Grocery-Store-Experience
 - 📁 GitHub Repository:  
  https://github.com/Geethikasree-7/ShopSmart-Your-Digital-Grocery-Store-Experience
 
- 👥 Team Members
+ 👥 Team Members : 
    Yaprakal Geethika sree, 
    Anand G, 
    Kallupalli Anusha, 
