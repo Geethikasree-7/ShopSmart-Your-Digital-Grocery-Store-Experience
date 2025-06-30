@@ -23,13 +23,13 @@ git clone https://github.com/your-username/ShopSmart.git
 cd ShopSmart/code
 
 3. Setup Backend
-
+bash
 cd Backend
 npm install
 node index.js
 
 4. Setup Frontend
-
+bash
 cd ../Frontend
 npm install
 npm start
