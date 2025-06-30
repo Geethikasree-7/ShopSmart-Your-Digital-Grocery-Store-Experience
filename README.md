@@ -4,8 +4,6 @@ ShopSmart is a full-stack grocery shopping web application built using the MERN 
 
  🔗 Project Links
  
-- 🚀 Live Application:  
-https://geethikasree-7.github.io/ShopSmart-Your-Digital-Grocery-Store-Experience/
 - 🎥 Video Demonstration:  
  https://github.com/Geethikasree-7/ShopSmart-Your-Digital-Grocery-Store-Experience/tree/main/Video%20Demo
 - 📁 GitHub Repository:  
