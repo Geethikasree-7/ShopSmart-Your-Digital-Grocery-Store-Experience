@@ -18,20 +18,25 @@ ShopSmart is a full-featured MERN stack (MongoDB, Express.js, React.js, Node.js)
 
 🔧 Setup Instructions
  1. Clone the Repository
-bash
+
 git clone https://github.com/your-username/ShopSmart.git
+
 cd ShopSmart/code
 
 3. Setup Backend
-bash
+
 cd Backend
+
 npm install
+
 node index.js
 
 4. Setup Frontend
-bash
+
 cd ../Frontend
+
 npm install
+
 npm start
 
 🔁 Make sure MongoDB is running locally (mongodb://127.0.0.1:27017/grocery)
